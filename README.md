@@ -23,49 +23,6 @@
 
 <img width="12" />
 
-<div align="left">
-  <a href="https://react.dev/learn">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-      width="60"
-      height="60" 
-      alt="react logo" 
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/">
-    <img 
-      src="https://img.icons8.com/fluency/48/typescript--v2.png" 
-      height="60"
-      width="60"
-      alt="typescript logo" 
-    />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img 
-      src="https://img.icons8.com/pulsar-gradient/48/javascript.png" 
-      height="60"
-      width="60"
-      alt="javascript logo" 
-    />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img 
-      src="https://img.icons8.com/color/48/css3.png" 
-      height="60"
-      width="60"
-      alt="css3 logo" 
-    />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img 
-      src="https://img.icons8.com/color/48/html-5--v1.png" 
-      height="60"
-      width="60"
-      alt="html5 logo" 
-    />
-  </a>
-</div>
-
 ##
 
 <div align="left">
@@ -94,9 +51,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chris-Valentim/Chris-Valentim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chris-Valentim/Chris-Valentim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chris-Valentim/Chris-Valentim/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertodeoliveira/robertodeoliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertodeoliveira/robertodeoliveira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertodeoliveira/robertodeoliveira/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
